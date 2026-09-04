@@ -52,17 +52,17 @@ The scenario uses public oil and gas vocabulary and concepts grounded in the U.S
 
 ## Download links
 
-- [`Well_Test_Results_Southwest.xlsx`](demo/sample-data/Well_Test_Results_Southwest.xlsx)
-- [`Well_Test_Results_Midcontinent.xlsx`](demo/sample-data/Well_Test_Results_Midcontinent.xlsx)
-- [`Well_Test_Results_Gulf_ArkLaTex.xlsx`](demo/sample-data/Well_Test_Results_Gulf_ArkLaTex.xlsx)
-- [`Manifest_Template.xlsx`](demo/sample-data/Manifest_Template.xlsx)
-- [`Well Brief Template.docx`](demo/sample-data/Well%20Brief%20Template.docx)
-- [`Executive_Rundown_Template.pptx`](demo/sample-data/Executive_Rundown_Template.pptx)
-- [`DEMO-INSTRUCTIONS.md`](demo/DEMO-INSTRUCTIONS.md)
-- [`DEMO-INSTRUCTIONS.docx`](demo/DEMO-INSTRUCTIONS.docx)
-- [`manifest.json`](manifest.json)
-- [`AI-CONTENT-DECLARATION.md`](AI-CONTENT-DECLARATION.md)
-- [`LICENSE`](LICENSE)
+- [`Well_Test_Results_Southwest.xlsx`](https://github.com/AndrewConniff/oil-gas-wells/blob/main/demo/sample-data/Well_Test_Results_Southwest.xlsx)
+- [`Well_Test_Results_Midcontinent.xlsx`](https://github.com/AndrewConniff/oil-gas-wells/blob/main/demo/sample-data/Well_Test_Results_Midcontinent.xlsx)
+- [`Well_Test_Results_Gulf_ArkLaTex.xlsx`](https://github.com/AndrewConniff/oil-gas-wells/blob/main/demo/sample-data/Well_Test_Results_Gulf_ArkLaTex.xlsx)
+- [`Manifest_Template.xlsx`](https://github.com/AndrewConniff/oil-gas-wells/blob/main/demo/sample-data/Manifest_Template.xlsx)
+- [`Well Brief Template.docx`](https://github.com/AndrewConniff/oil-gas-wells/blob/main/demo/sample-data/Well%20Brief%20Template.docx)
+- [`Executive_Rundown_Template.pptx`](https://github.com/AndrewConniff/oil-gas-wells/blob/main/demo/sample-data/Executive_Rundown_Template.pptx)
+- [`DEMO-INSTRUCTIONS.md`](https://github.com/AndrewConniff/oil-gas-wells/blob/main/demo/DEMO-INSTRUCTIONS.md)
+- [`DEMO-INSTRUCTIONS.docx`](https://github.com/AndrewConniff/oil-gas-wells/blob/main/demo/DEMO-INSTRUCTIONS.docx)
+- [`manifest.json`](https://github.com/AndrewConniff/oil-gas-wells/blob/main/manifest.json)
+- [`AI-CONTENT-DECLARATION.md`](https://github.com/AndrewConniff/oil-gas-wells/blob/main/AI-CONTENT-DECLARATION.md)
+- [`LICENSE`](https://github.com/AndrewConniff/oil-gas-wells/blob/main/LICENSE)
 
 ## Setup instructions
 
